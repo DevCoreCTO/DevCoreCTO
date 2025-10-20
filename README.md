@@ -64,8 +64,6 @@ I believe in robust automation. Below are the live CI/CD statuses for some of my
 
 My toolbox is extensive. Here’s a snapshot of the technologies I command, categorized by domain:
 
----
-
 <h4 align="center">Frontend Development</h4>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" width="45"/></a>
