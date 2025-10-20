@@ -1,4 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/DevCoreCTO/DevCoreCTO/refs/heads/main/git-head-banner.png" width="100%" />
+</p>
 
 ### Lead Full-Stack Architect & Creative Technologist
 
