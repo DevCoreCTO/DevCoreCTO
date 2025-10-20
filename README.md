@@ -49,17 +49,6 @@ graph TD
 
 ---
 
-### 🚀 Live Project Status & Automation
-
-I believe in robust automation. Below are the live CI/CD statuses for some of my key projects, managed via GitHub Actions.
-
-| Repository                                         | Build & Test Status                                                                                                   |
-| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **[My Awesome Project](https://github.com/DevCoreCTO/awesome-project)** | [![CI/CD Pipeline](https://github.com/DevCoreCTO/awesome-project/actions/workflows/main.yml/badge.svg)](https://github.com/DevCoreCTO/awesome-project/actions) |
-| **[Another Key Repo](https://github.com/DevCoreCTO/another-repo)** | [![CI/CD Pipeline](https://github.com/DevCoreCTO/another-repo/actions/workflows/ci.yml/badge.svg)](https://github.com/DevCoreCTO/another-repo/actions)         |
-
----
-
 ### 💻 Core Technologies & Tools
 
 My toolbox is extensive. Here’s a snapshot of the technologies I command, categorized by domain:
