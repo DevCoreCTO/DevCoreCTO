@@ -16,6 +16,47 @@ My philosophy is simple: build clean, resilient systems that humans love to use.
 * **Web3 & Blockchain:** Exploring decentralized finance (DeFi), NFTs, and developing smart contracts with Solidity and Rust.
 * **Data Science & AI:** Currently deepening my expertise in Data Science and Machine Learning to build more intelligent applications.
 * **Mentorship:** Advocating for clean code principles and sharing my journey to help grow the next generation of developers.
+* **🌱 I’m currently learning:** Advanced concepts in Kubernetes and system design.
+* **💡 I’m currently working on:** A decentralized identity management system using Rust.
+
+---
+
+### 📜 My Core Principles
+
+* **Simplicity Over Complexity:** I architect systems that are easy to understand and maintain.
+* **Automate Everything:** Repetitive tasks should be handled by machines, freeing humans to solve creative problems.
+* **Pragmatism First:** I choose the right tool for the job, not just the most popular one.
+* **Ownership & Accountability:** Teams thrive when they have the autonomy and responsibility to own their work.
+
+---
+
+### 🏛️ Sample System Architecture
+
+Here's a high-level overview of a typical microservices architecture I design. This diagram is rendered directly from code using Mermaid.js.
+
+```mermaid
+graph TD
+    A[Client: Web/Mobile App] --> B(API Gateway);
+    B --> C{User Service};
+    B --> D{Order Service};
+    B --> E{Payment Service};
+    C --> F[(User DB)];
+    D --> G[(Order DB)];
+    E --> H{3rd Party Payment API};
+    D -- Publishes Event --> I((Message Queue));
+    I -- Subscribes to Event --> J(Notification Service);
+```
+
+---
+
+### 🚀 Live Project Status & Automation
+
+I believe in robust automation. Below are the live CI/CD statuses for some of my key projects, managed via GitHub Actions.
+
+| Repository                                         | Build & Test Status                                                                                                   |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **[My Awesome Project](https://github.com/DevCoreCTO/awesome-project)** | [![CI/CD Pipeline](https://github.com/DevCoreCTO/awesome-project/actions/workflows/main.yml/badge.svg)](https://github.com/DevCoreCTO/awesome-project/actions) |
+| **[Another Key Repo](https://github.com/DevCoreCTO/another-repo)** | [![CI/CD Pipeline](https://github.com/DevCoreCTO/another-repo/actions/workflows/ci.yml/badge.svg)](https://github.com/DevCoreCTO/another-repo/actions)         |
 
 ---
 
@@ -86,5 +127,9 @@ My toolbox is extensive. Here’s a snapshot of the technologies I command, cate
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Personal Website:** [your-website.com](https://your-website.com)
+<h3 align="center">📫 How to Reach Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
