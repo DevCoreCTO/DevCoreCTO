@@ -114,7 +114,7 @@ My toolbox is extensive. Here’s a snapshot of the technologies I command, cate
 
 ### 📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats-gilt-tau.vercel.app/?user=DevCoreCTO&theme=react&border_radius=5" alt="DevCoreCTO GitHub Streak" />
+<img src="https://github-readme-streak-stats-delta-self.vercel.app/?user=DevCoreCTO&theme=react&border_radius=5" alt="DevCoreCTO GitHub Streak" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats-omega-ivory-59.vercel.app/api?username=DevCoreCTO&theme=react&show_icons=true&include_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=5" alt="DevCoreCTO GitHub stats" />
