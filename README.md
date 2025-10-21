@@ -122,7 +122,7 @@ My toolbox is extensive. Here’s a snapshot of the technologies I command, cate
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-omega-ivory-59.vercel.app/graph?username=DevCoreCTO&theme=react" alt="DevCoreCTO GitHub stats" />
+<img src="https://github-readme-activity-graph-new-alpha.vercel.app/graph?username=DevCoreCTO&theme=react" alt="DevCoreCTO GitHub stats" />
 </p>
 
 ---
